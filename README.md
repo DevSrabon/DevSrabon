@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Srabon Barua</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
