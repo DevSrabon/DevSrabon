@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Skill Judge](https://github.com/DevSrabon/Skill-judge-client)
 
-- 🌱 I’m currently learning **Next JS, Redux**
+- 🌱 I’m currently learning **Next JS, Redux, React Native**
 
 - 👨‍💻 All of my projects are available at [https://srabon-portfolio.web.app](https://srabon-portfolio.web.app)
 
-- 💬 Ask me about **React JavaScript Rest Api**
+- 💬 Ask me about **React, JavaScript, Rest Api**
 
 - 📫 How to reach me **et.srabon@gmail.com**
 
