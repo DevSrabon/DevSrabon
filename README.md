@@ -30,7 +30,7 @@
 
 ### 🌐 Portfolio & Resume
 
-- 🌍 Portfolio: https://srabon-portfolio.web.app  
+- 🌍 Portfolio: https://srabon-portfolio.netlify.app
 - 📄 Resume: https://drive.google.com/file/d/1iMWpsHb9WTSguKNliSLZCkHeqOiKGm-P/view  
 
 ---
